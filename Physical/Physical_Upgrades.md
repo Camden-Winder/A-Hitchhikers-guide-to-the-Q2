@@ -3,37 +3,42 @@
 ## Cooling
 
 ### Part Cooling Fan
-The stock part cooling fan is not very good, especially if you do heavy printing with PLA and PETG. There are a few different options. The best option for US users is the r3men fan.
 
-> [R3men 5015 wide mouth 4 pin](https://www.r3men.com/products/5015-wide-outlet-blower-fan-2-pin-r3-fan?variant=48281912180979) - This fan option is plug and play, no crimping or sodering required.
+The stock part cooling fan is not very good, especially if you do a lot of PLA or PETG printing. There are a few different upgrade options available. For users in the US, the R3men fan is generally considered the best option.
 
-> Europen users - Input needed
+> [R3men 5015 Wide Mouth 4-Pin](https://www.r3men.com/products/5015-wide-outlet-blower-fan-2-pin-r3-fan?variant=48281912180979)
+>
+> This fan is plug-and-play. No crimping or soldering is required.
+
+> European users — input needed.
 
 ### Part Cooling Duct
-Similiar to the part cooling fan, the stock part cooling duct is not very good either. 
 
-> [Dual Flow cooling duct](https://www.printables.com/model/1642251-qidi-q2-cooling-duct-v51-v60-dual-flow)
->
-> The best options from what I have heard are the 5.1 and 6.0 versions. Just make sure to orient the print as shown in the 11th picture and follow all other recommended settings
->
-> You can print this out of ABS if you must, but it will not last forever, especially with high temp materials. Commonly used materials are ABS-GF, PET-GF, and Nylon.
+Similar to the part cooling fan, the stock cooling duct is not particularly effective.
 
-### Auxilary Cooling Fan
-No one upgrades this. Just turn it off.
+> [Dual Flow Cooling Duct](https://www.printables.com/model/1642251-qidi-q2-cooling-duct-v51-v60-dual-flow)
+>
+> From what I've heard, the best options are the 5.1 and 6.0 versions. Be sure to orient the print as shown in the 11th picture and follow all other recommended print settings.
+>
+> You can print this in ABS if necessary, but it will not last forever, especially when printing high-temperature materials. Common choices are ABS-GF, PET-GF, and nylon-based materials.
+
+### Auxiliary Cooling Fan
+
+Almost nobody upgrades this. Just turn it off.
 
 ### Hotend Fan
 
-> [Honeybadger 2510 2 or 3 pin](https://www.fabreeko.com/products/2510-performance-axial-fan-by-honeybadger)
+> [HoneyBadger 2510 (2-Pin or 3-Pin)](https://www.fabreeko.com/products/2510-performance-axial-fan-by-honeybadger)
 >
-> Plug and play upgraded hotend fans. Some people (Sakarnen) print PLA at 50c chamber temps to decrease warping and increase layer adhesion with this fan
+> Plug-and-play hotend fan upgrade. Some users (such as Sakarnen) print PLA with 50°C chamber temperatures using this fan to reduce warping and improve layer adhesion.
 
-> [Honeybadger 3010](https://www.fabreeko.com/products/3010-performance-axial-fan?_pos=1&_sid=16984af0c&_ss=r)
+> [HoneyBadger 3010](https://www.fabreeko.com/products/3010-performance-axial-fan?_pos=1&_sid=16984af0c&_ss=r)
 >
-> Plug and play upgraded hotend fan, just like the other one. It is not possible to use the toolhead cover with this fan.
+> Another plug-and-play hotend fan upgrade. The stock toolhead cover cannot be used with this fan.
 
 > [Lightweight Hotend Fan Bracket](https://www.fabreeko.com/products/3010-performance-axial-fan?_pos=1&_sid=16984af0c&_ss=r)
 >
-> A bracket for both 2510 and 3010 fans. This bracket is needed with 3010 fans.
+> A lightweight bracket designed for both the 2510 and 3010 fans. This bracket is required when using the 3010 fan.
 
 ## Heating
 
@@ -41,8 +46,30 @@ No one upgrades this. Just turn it off.
 
 > [Graphite Bed](https://www.r3men.com/products/graphite-heated-bed-for-qidi-q2)
 >
-> Advertises faster heating, no warping, and lighter weight. (Personal input on difficulty and usefullness wanted)
+> Advertised benefits include faster heating, reduced warping, and lower weight.
 >
-> [Build Sheet Guides](https://www.printables.com/model/1621483-qidi-q2-r3men-graphite-bed-corner-guides)
+> Personal feedback on installation difficulty, long-term durability, and overall usefulness is still needed.
 
-> Conch (nozzle). Releasing Q3, nobody really knows when it is going to release but it is supposed to adapt the commonly used V6 nozzle to the Q2
+> [Build Sheet Guides](https://www.printables.com/model/1621483-qidi-q2-r3men-graphite-bed-corner-guides)
+>
+> Alignment guides designed for use with the R3men graphite bed.
+
+### Conch Nozzle System
+
+> Conch (nozzle)
+>
+> "Releasing Q3". There is currently no confirmed release date, but it is expected to adapt commonly used V6 nozzles for use on the Q2.
+
+## TPU & Other Flexibles
+
+### Top-Mounted Spool Holder
+
+> [Top Mount Spool Holder](https://odysee.com/@The_Mi3_Channel:f/Q2-Flexibles-Top-Spool-Holder:a)
+>
+> Places the spool directly above the printer to reduce feeding resistance and help prevent TPU feeding issues.
+
+### Extruder Shim
+
+> [Extruder Shim](https://www.printables.com/model/1491712-qidi-q2-tpu-fixer)
+>
+> Removes excess space inside the extruder path and helps prevent flexible filaments from feeding where they should not.
