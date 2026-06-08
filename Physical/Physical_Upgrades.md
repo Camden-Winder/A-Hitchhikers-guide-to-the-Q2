@@ -12,6 +12,20 @@ The stock part cooling fan is not very good, especially if you do a lot of PLA o
 
 > European users — input needed.
 
+Here is detailed information from Sakarnen on the Qidi Discord
+> there's 4 r3men fans that can fit the q2:
+> 4 pin narrow
+> 2 pin narrow
+> 4 pin wide
+> 2 pin wide
+> the narrow mouth fans don't have the right connector to fit the toolhead board, but you can solder, splice, or re-crimp the correct connector on to them (4 pin PH > 2.0 or 2 pin XH 2.54 are the correct JST connectors)
+> the wide mouth ones will both plug into the board without modification
+> 4 pin fits the stock cooling fan port
+> 2 pin fits the unused FAN2 port, and you just have to copy and paste in a config change to printer.cfg to make it work
+> the 2 pin fans have a bit more airflow than the 4 pin IIRC; slightly higher RPM
+> the narrow mouth fans have higher airflow than the wide mouth, but the flow from the widemouth is more balanced
+> but IMO you want to use a 4 pin, because then the 2 pin port is still available for a hotend fan upgrade; it is VERY difficult to find a 4 wire hotend fan that can > use the stock hotend fan port
+
 ### Part Cooling Duct
 
 Similar to the part cooling fan, the stock cooling duct is not particularly effective.
